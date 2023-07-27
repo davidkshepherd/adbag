@@ -1,0 +1,7 @@
+Login to your GitHub and go and setup a "Personal Access Token" at https://github.com/settings/tokens
+
+After you have your personal access token, go to terminal and change your "origin" url as below
+
+git remote set-url origin https://REPLACE-WITH-TOKEN@github.com/REPLACE-WITH-USERNAME/REPLACE-REPO-NAME.git/
+
+git remote set-url origin https://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345_@github.com/davidkshepherd/adbag.git
