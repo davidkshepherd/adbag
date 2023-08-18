@@ -8,3 +8,6 @@ git remote set-url origin https://github_pat_11Token123345_Token123345_Token1233
 
 Twitter Video Download
 https://twittervideodownloader.com/
+
+TikTok Video Downloader
+https://snaptik.app/
